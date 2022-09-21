@@ -1,5 +1,6 @@
 # 2022_3B_System_Analysis-C109118212
 # Implementation
+
 Emphasis, aka italics, with asterisks or underscores.  
 Strong emphasis, aka bold, with **asterisks** or __underscores__  
 Combined emphasis with __**asterisks and underscores**__.  
@@ -15,3 +16,21 @@ Strikethrough uses two tlides. ~~Scratch this~~.
 >>...* note1  
 >>...* note2  
 >> *** note3  
+
+- [ ] todo list
+- [ ] 2nd things
+## Python code
+```python
+s = "python syntax Highlighting"
+print s
+```
+## JavaScript code
+```js
+var s = "JavaScript syntax hilighting";
+alert(s);
+```
+| Tables | Are | Cool |
+|:-------|:---:|-----:|
+|col3 is|right-aligned|$1600|
+|col2 is|centered|$12|
+|col1 is|left-aligned|$1|
