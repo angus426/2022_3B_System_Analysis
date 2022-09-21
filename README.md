@@ -16,9 +16,11 @@ Strikethrough uses two tlides. ~~Scratch this~~.
 >>...* note1  
 >>...* note2  
 >> *** note3  
-
+`
 - [ ] todo list
 - [ ] 2nd things
+`
+
 ## Python code
 ```python
 s = "python syntax Highlighting"
