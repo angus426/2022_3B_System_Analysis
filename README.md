@@ -1,5 +1,16 @@
 # 2022_3B_System_Analysis-C109118212薛至斌
-# 實作題
+## Practice
+* Category1
+* Category2
+* Category3
+### Hypertext
+[Twitter](https://twitter.com/angus91426)
+
+
+
+
+
+## 實作題
 
 Emphasis, aka italics, with asterisks or underscores.  
 Strong emphasis, aka bold, with **asterisks** or __underscores__  
@@ -31,6 +42,7 @@ print s
 var s = "JavaScript syntax hilighting";
 alert(s);
 ```
+## Table
 | Tables | Are | Cool |
 |:-------|:---:|-----:|
 |col3 is|right-aligned|$1600|
@@ -41,3 +53,5 @@ alert(s);
 ---|---|--- 
 *still*| renders | **nicely**
 1 | 2 | 3
+
+
