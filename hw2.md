@@ -4,10 +4,8 @@
 gantt
     title A Gantt Diagram
 
-    section Section
-    A task           :a1, 2020-10-05, 30d
-    Another task     :after a1  , 20d
-    section Another
-    Task in sec      :2020-10-12  , 12d
-    anther task      : 24d
+    section 研擬計畫
+    研擬計畫         :a1, 2022-10-05, 1d
+    section 任務分配
+    任務分配      :2022-10-6  , 4d
 ```
