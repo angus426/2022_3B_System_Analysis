@@ -25,5 +25,5 @@ gantt
     section 使用者訓練
     使用者訓練      :des10, after des7 , 20d
     section 使用者測試
-    使用者測試      :des11, after des10 , 25d
+    使用者測試      :des11, after des9 , 25d
 ```
