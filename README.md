@@ -1,4 +1,4 @@
-# 2022_3B_System_Analysis-C109118212薛至斌
+# 2022_3B_System_Analysis-C109118212
 ## Practice
 * Category1
 * Category2
